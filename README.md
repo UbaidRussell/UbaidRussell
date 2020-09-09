@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  you can call me Russ!
 
 
 Here are some things about me:
