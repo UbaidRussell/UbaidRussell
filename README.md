@@ -1,4 +1,4 @@
-### What's up! 👋  you can call me Russ!
+### What's up! You can call me Russ!
 
 
 Here are some things about me:
