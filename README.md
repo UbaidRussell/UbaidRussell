@@ -4,6 +4,6 @@
 Here are some things about me:
 
 - 🌞 I’m a Full-Stack Engineer.
-- 🧠 I’m currently learning Javascript.
+- 🧠 Always learning.
 - ⛰ Mind Body Sould. 
 
