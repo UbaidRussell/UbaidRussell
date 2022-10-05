@@ -1,14 +1,14 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://lionalert.org/wp-content/uploads/2020/02/Lion-Status-1080x675.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://wallpaper.dog/large/20436919.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hey Devs 🤍 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UbaidRussell.UbaidRussell)
 
 </p>
-<div size='20px'> Hi! My name is Ubaid. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>How's it going? My name is Ubaid. Check out my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -16,13 +16,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Being the best Full stack Engineer I can be
+- 🖥 I’m a Self Taught Full Stack Engineer.
 
-- 🌱 I’m currently learning Frontend, Backend and all things to fully deploy and scale web applications 
+- 🌱 I’m currently learning Frontend, Backend and all things to fully deploy and scale web applications. 
 
-- 👯 I’m looking to collaborate on Projects, spaces, and a bit more, I have a open mind, hit me with it. 
+- 👨🏾‍💻 I’m looking to collaborate on Projects, spaces, and a bit more, I have a open mind, hit me with it. 
 
-- 💬 Talk to me about JavaScript, Freelancing Opportunites and Open Source projects to hop on.  
+- 📖 I enjoy Reading, Writing, physical activities like hitting the gym and Building things 
+
+- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source projects to hop on or Web Development in general.  
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/UbaidRussell?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
