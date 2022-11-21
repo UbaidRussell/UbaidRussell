@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://pbs.twimg.com/profile_banners/1213270026179903488/1667180576/1500x500" alt="cover" />
+<img width="100%" height = "100%" src="https://images.pexels.com/photos/327509/pexels-photo-327509.jpeg" alt="cover" />
 </div>
 
 <h1> Hey Developers and Engineers 🤍 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
