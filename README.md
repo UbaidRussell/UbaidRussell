@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🤍 I’m a Software Engineer.
+- 🤍 I’m a Software Developer.
 
 - ⚡️ I work on and Frontend, Backend and all things to fully deploy and scale web applications. 
 
