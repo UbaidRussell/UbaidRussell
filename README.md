@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://www.canva.com/design/DAFYDa3bTkg/YRXgmGo7N8w4JiCKz66MkQ/view" alt="cover" />
 </div>
 
 <h1> Hey Developers and Engineers 🤍 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
