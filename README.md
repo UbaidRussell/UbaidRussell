@@ -2,7 +2,7 @@
 <img width="100%" height = "100%" src="Github profile photo.png" alt="cover" />
 </div>
 
-<h1> Hey Developers and Engineers 🤍 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hey Developers and Engineers 🤍 </h1>
 <div size='20px'>How's it going? Ubaid is the name and below, my GitHub Profile :smile: 
 </div>
 <p align='center'>
