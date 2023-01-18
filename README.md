@@ -3,13 +3,13 @@
 </div>
 
 <h1> Hey Developers and Engineers 🤍 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<div size='20px'>How's it going? Ubaid is the name and below, my GitHub Profile :smile: 
+</div>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=UbaidRussell.UbaidRussell)
 
 </p>
-<div size='20px'>How's it going? Ubaid is the name and below, my GitHub Profile :smile: 
-</div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
