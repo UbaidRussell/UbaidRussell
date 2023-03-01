@@ -2,7 +2,7 @@
     Ubaid Russell
 </h1>
 <h2> About Me</h2>
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/UbaidRussell/ubaidrussell.github.io/master/img/black%20heart%20x%20hammer.png" />
 <p>
 Hey Developers, Engineers and talent recruiters of course. My name is Ubaid. I'm a full stack engineer. I work on frontend, backend, and all things to fully deploy and scale web applications. This is my Github profile, here I share what I'm working on and collaborate with others in the world of open source. I'm always looking to collaborate on projects, spaces, business, or anything tech related. I enjoy reading, writing, hitting the gym and building things. My technical skills lay in HTML, CSS, Javascript, nodejs, expressjs, Reactjs, Git and Github. 
 </p>
