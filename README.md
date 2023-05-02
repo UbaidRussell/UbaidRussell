@@ -2,9 +2,9 @@
     Ubaid Russell
 </h1>
 <h2> About Me</h2>
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/UbaidRussell/ubaidrussell.github.io/master/img/black%20heart%20x%20hammer.png" />
+<img width="50%" align="center" alt="Github" src="https://raw.githubusercontent.com/UbaidRussell/ubaidrussell.github.io/master/img/black%20heart%20x%20hammer.png" />
 <p>
-Building ... 🔨
+    Mastering the art of Problem Solving 🔨
 </p>
 <h2> Skills </h2>
 <a href= https://github.com/UbaidRussell?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
