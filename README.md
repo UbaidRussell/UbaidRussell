@@ -2,7 +2,7 @@
     Ubaid Russell
 </h1>
 <h2> About Me</h2>
-<img width="30%" align="center" alt="Github" src="https://raw.githubusercontent.com/UbaidRussell/ubaidrussell.github.io/master/img/black%20heart%20x%20hammer.png" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/UbaidRussell/ubaidrussell.github.io/master/img/black%20heart%20x%20hammer.png" />
 <p>
     Mastering the art of Problem Solving 🔨
 </p>
