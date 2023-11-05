@@ -2,7 +2,7 @@
     Ubaid Russell
 </h1>
 <h2> About Me</h2>
-<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/UbaidRussell/ubaidrussell.github.io/master/img/black%20heart%20x%20hammer.png" />
+<img width="30%" align="right" alt="Github" src="https://github.com/UbaidRussell/ubaidrussell.github.io/blob/95c6ca0369814b211bd000dc7014a0bfe17ada42/img/inverted%20heart.png" />
 <p>
     Web Developer/Full Stack Engineer specalizing in the art of building professional Web applications and Websites that can be used to solve real world problems. When I'm not working on Software, Websites or Web applications, I'm either reading, writing, in the gym or attending cool tech events. Incredibly wanderlust with a passion for startups, business and emerging technologies. 
 </p>
