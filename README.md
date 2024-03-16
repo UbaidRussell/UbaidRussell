@@ -7,6 +7,7 @@
     Web Developer/Full Stack Engineer specalizing in the art of building professional Web applications and Websites that can be used to solve real world problems. When I'm not working on Software, Websites or Web applications, I'm either reading, writing, in the gym or attending cool tech events. Incredibly wanderlust with a passion for startups, business and emerging technologies. 
 </p>
 <h2> Skills </h2>
+<hr style="width: 75%">
 <a href= https://github.com/UbaidRussell?tab=repositories&q=&type=&language=reactjs&sort=><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>
 <a href= https://github.com/UbaidRussell?tab=repositories&q=&type=&language=javascript&sort=><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
 <a href= https://github.com/UbaidRussell?tab=repositories&q=&type=&language=html&sort=><img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
